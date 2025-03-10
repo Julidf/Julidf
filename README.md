@@ -3,8 +3,8 @@
 <h3 align="center"> A Fullstack Web Developer from Buenos Aires, Argentina. </h3> 
 
 <br/>
-<p>Of my 24 years of life, I've spent more than 14 being raised by the Internet 👨‍💻. 
-I hold a technical degree in Systems Analysis and currently work at PwC Argentina; I enjoy coding cloud apps with <strong>React, Node.js and AWS</strong>, and sometimes I add a bit of <strong>Python</strong>.</p>
+<p>Of my 25 years of life, I've spent more than 15 being raised by the Internet 👨‍💻. 
+I hold a technical degree in Systems Analysis and currently work at Mercado Libre; I enjoy coding cloud apps with <strong>React, Node.js, Java and AWS</strong>.</p>
 <p>I also earned these:</p>
 <span><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="90"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" ></span>
 <br/><br/>
